@@ -21,4 +21,5 @@ Recipe can easy be doubled, tripled or even multiplied by ten.
 Spice blend will keep for up to six months stored in an air-tight container at room temperature.
 
 
-[Back](../README.md)
+---
+[Back](../readme.md)

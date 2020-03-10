@@ -44,4 +44,5 @@ Which Green chili to use? I typically use Thai, Birdeye or Serrano Chili Pepper 
 Cutting the veggies: It is important to cut the veggies in large size about 1 inch so that the eggplants and potatoes don't get too mushy while pressure cooking.
 
 
-[Back](../README.md)
+---
+[Back](../readme.md)
