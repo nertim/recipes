@@ -14,5 +14,13 @@
 
 [Pav Bhaji - Instant Pot](./pav-bhai-instant-pot/readme.md)
 
+[Indian Curry Sauce - Tomato and Onion](./indian-curry-sauce-bhuna-masala/readme.md)
+
+[Methi Matar Malai](./methi-matar-malai/readme.md)
+
+[Marinated Tomatoes](./marinated-tomatoes/readme.md)
+
+[Smoky Cauliflower](./smoky-cauliflower/readme.md)
+
 ---
 [Back](../readme.md)
