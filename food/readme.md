@@ -22,5 +22,9 @@
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 
+[Thai Prawn Curry](./thai-prawn-curry/readme.md)
+
+[Crispy Balsamic Chicken](./crispy-balsamic-chicken-recipe/readme.md)
+
 ---
 [Back](../readme.md)
