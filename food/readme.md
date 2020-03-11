@@ -26,5 +26,9 @@
 
 [Crispy Balsamic Chicken](./crispy-balsamic-chicken-recipe/readme.md)
 
+[Black Bean White Cheddar](./black-bean-white-cheddar-frittata/readme.md)
+
+[Rajma - Instant Pot](./rajma-masala-instant-pot/readme.md)
+
 ---
 [Back](../readme.md)
