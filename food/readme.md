@@ -30,5 +30,9 @@
 
 [Rajma - Instant Pot](./rajma-masala-instant-pot/readme.md)
 
+[Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
+
+[Lemongrass Chicken](./lemongrass-chicken/readme.md)
+
 ---
 [Back](../readme.md)
