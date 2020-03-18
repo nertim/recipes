@@ -8,7 +8,7 @@
 - 4 cups green beans - cut in 2 inch pieces (fresh or frozen)
 - 15 ounce can diced tomatoes
 - 15 ounce can tomato sauce
-- 2 teaspoons [All Purpose Lebanese Spice Blend](./lebanese-all-purpose-spice.md)
+- 2 teaspoons [All Purpose Lebanese Spice Blend](../lebanese-all-purpose-spice/readme.md)
 
 ## Steps
 
