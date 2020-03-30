@@ -14,6 +14,8 @@
 
 ## C
 
+[Chilli Garlic Chutney](./chilli-garlic-chutney/readme.md)
+
 [Crispy Balsamic Chicken](./crispy-balsamic-chicken-recipe/readme.md)
 
 ## D
@@ -76,6 +78,8 @@
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 
+[Sourdough Starter](./sourdough-starter/readme.md)
+
 [Steel Cut Oats - Instant Pot](./steel-cut-oats-instant-pot/readme.md)
 
 ## T
@@ -91,6 +95,8 @@
 ## X
 
 ## Y
+
+[Yummy Rice - Instant Pot](./yummy-rice-instant-pot/readme.md)
 
 ## Z
 
