@@ -25,4 +25,19 @@
 
 - The initial mix for the starter will grown before it settles. So this will spill over if you are using a smaller container or jar. My recommendation would be to have it where the initial mixture should be a big enough container which would allow it to grow 150%.
 
+## Pictures for reference
+
+### Initial Stage
+![Initial Stage][InitialStage]
+
+### After a couple of hours
+![After a couple of hours][AfterACoupleOfHours]
+
+### Once it settles
+![Once it settles][OnceItSettles]
+
 [Back](../readme.md)
+
+[InitialStage]: ./images/InitialStage.jpg
+[AfterACoupleOfHours]: ./images/AfterACoupleOfHours.jpg
+[OnceItSettles]: ./images/OnceItSettles.jpg
