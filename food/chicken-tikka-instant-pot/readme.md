@@ -1,4 +1,4 @@
-#Chicken Tikka - Instant Pot
+# Chicken Tikka - Instant Pot
 [https://pipingpotcurry.com/instant-pot-chicken-tikka-masala/](https://pipingpotcurry.com/instant-pot-chicken-tikka-masala/)
 
 ## Ingredients
