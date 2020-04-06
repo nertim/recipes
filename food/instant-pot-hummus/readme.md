@@ -23,5 +23,7 @@
 
 ## Notes
 
+- If you decide to use canned chickpeas instead, drain them and cook on high pressure 2 cups of water for 5 mins in the instant pot. Quick release the pressure after 5 mins.
+
 ---
 [Back](../readme.md)
