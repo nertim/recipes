@@ -78,6 +78,8 @@
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 
+[Sourdough Pancakes](./sourdough-pancakes/readme.md)
+
 [Sourdough Starter](./sourdough-starter/readme.md)
 
 [Steel Cut Oats - Instant Pot](./steel-cut-oats-instant-pot/readme.md)
