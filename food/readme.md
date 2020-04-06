@@ -14,6 +14,8 @@
 
 ## C
 
+[Chicken Tikka - Instant Pot](./chicken-tikka-instant-pot/readme.md)
+
 [Chilli Garlic Chutney](./chilli-garlic-chutney/readme.md)
 
 [Crispy Balsamic Chicken](./crispy-balsamic-chicken-recipe/readme.md)
