@@ -18,6 +18,10 @@
 
 [Chilli Garlic Chutney](./chilli-garlic-chutney/readme.md)
 
+[Coconut Chicken Curry - Instant Pot](./coconut-chicken-curry-instant-pot/readme.md)
+
+[Coconut Shrimp Curry - Instant Pot](./coconut-shrimp-curry-instant-pot/readme.md)
+
 [Crispy Balsamic Chicken](./crispy-balsamic-chicken-recipe/readme.md)
 
 ## D
@@ -58,6 +62,8 @@
 
 [Methi Matar Malai](./methi-matar-malai/readme.md)
 
+[Mixed Vegetables Roasted](./mixed-vegetables-roasted/readme.md)
+
 ## N
 
 [Not Mexican Fajitas](./not-mexican-fajitas/readme.md)
@@ -77,6 +83,8 @@
 [Rice - Instant Pot](./rice-instant-pot/readme.md)
 
 ## S
+
+[Shredded Chicken - Instant Pot](./shredded-chicken-instant-pot/readme.md)
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 

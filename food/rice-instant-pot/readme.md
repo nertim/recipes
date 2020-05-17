@@ -4,7 +4,9 @@
 ## Ingredients
 
 - 1 cup rice (I prefer brown)
-- 2 cups water
+- 1 cup water
+
+### Seasoning
 - 1/2 tsp oil
 - 1 lemon juiced
 
