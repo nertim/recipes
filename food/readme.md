@@ -72,6 +72,8 @@
 
 ## P
 
+[Palak Paneer](./palak-paneer/readme.md)
+
 [Pav Bhaji - Instant Pot](./pav-bhai-instant-pot/readme.md)
 
 ## Q
