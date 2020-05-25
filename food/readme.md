@@ -6,6 +6,10 @@
 
 ## B
 
+[Baked Pineapple Salmon](./baked-pineapple-salmon/readme.md)
+
+[Banana bread](./banana-bread/readme.md)
+
 [Beef Stew - Instant Pot](./instant-pot-beef-stew/readme.md)
 
 [Black Bean White Cheddar](./black-bean-white-cheddar-frittata/readme.md)
@@ -28,13 +32,19 @@
 
 ## E
 
+[English muffin pizza](./english-muffin-pizza/readme.md)
+
 ## F
 
 ## G
 
 [Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
 
+[Guacamole](./guacamole/readme.md)
+
 ## H
+
+[Hachapuri or Cheese Thingies](./hacapuri-or-cheese-thingies/readme.md)
 
 [Hummus - Instant Pot](./instant-pot-hummus/readme.md)
 
@@ -58,6 +68,8 @@
 
 ## M
 
+[Mac and Cheese sauce](./mac-and-cheese-sauce/readme.md)
+
 [Marinated Tomatoes](./marinated-tomatoes/readme.md)
 
 [Methi Matar Malai](./methi-matar-malai/readme.md)
@@ -73,6 +85,8 @@
 ## P
 
 [Palak Paneer](./palak-paneer/readme.md)
+
+[Pan Roasted Chicken with Lemon and Garlic Beans](./pan-roasted-chicken-lemon-garlic-green-beans/readme.md)
 
 [Pav Bhaji - Instant Pot](./pav-bhai-instant-pot/readme.md)
 
@@ -99,6 +113,8 @@
 ## T
 
 [Thai Prawn Curry](./thai-prawn-curry/readme.md)
+
+[Tomato Soup](./tomato-soup/readme.md)
 
 ## U
 
