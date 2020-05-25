@@ -1,5 +1,5 @@
 # Guacamole
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 

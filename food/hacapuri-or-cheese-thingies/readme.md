@@ -1,5 +1,5 @@
 # Hachapuri or (Cheese Thingies)
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 

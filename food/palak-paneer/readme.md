@@ -1,5 +1,5 @@
 # Palak Paneer (Spinach and Cheese curry)
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 

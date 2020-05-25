@@ -1,5 +1,5 @@
 # Mac and cheese sauce
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 

@@ -1,5 +1,5 @@
 # Banana bread
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 

@@ -1,5 +1,5 @@
 # Tomato Soup
-[Personal](../readme.md)
+[Personal](../../readme.md)
 
 ## Ingredients
 
