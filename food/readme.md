@@ -30,6 +30,8 @@
 
 ## D
 
+[Deviled Egg with Avocado](./deviled-egg-with-avocado/readme.md)
+
 ## E
 
 [English muffin pizza](./english-muffin-pizza/readme.md)
