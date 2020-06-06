@@ -18,6 +18,8 @@
 
 ## C
 
+[Cabbage Soup - Instant Pot](./cabbage-soup-instant-pot/readme.md)
+
 [Chicken Tikka - Instant Pot](./chicken-tikka-instant-pot/readme.md)
 
 [Chilli Garlic Chutney](./chilli-garlic-chutney/readme.md)
