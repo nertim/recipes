@@ -17,7 +17,7 @@
 
 ## Steps
 
-1. Saute onion and garlic on high heat in large pot. About 5 minutes
+1. Saute onion and garlic in olive oil, on high heat in large pot. About 5 minutes
 2. Add sausage and beef to pot (keep heat high to medium-high). Add salt and pepper to taste. Stir occasionally. About 10 minutes, until meat is browned.
 3. Add all cans of tomatoes, sause, and paste. Add spices. Stir.
 4. Leave on high heat for 2-5 minutes, until sauce starts to bubble.
