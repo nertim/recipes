@@ -32,6 +32,8 @@
 
 ## D
 
+[Dal Makhni - Instant Pot](./dal-makhani-instant-pot/readme.md)
+
 [Deviled Egg with Avocado](./deviled-egg-with-avocado/readme.md)
 
 ## E
