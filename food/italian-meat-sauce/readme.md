@@ -25,7 +25,7 @@
 
 ## Notes
 - If using a lot of meat, you might need to add a 2nd can of diced tomatoes to avoid being too meat heavy
-- Can substitute dried basis for fresh basic. 
+- Can substitute dried basis for fresh basil. 
 
 ---
 [Back](../readme.md)
