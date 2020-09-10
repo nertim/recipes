@@ -126,6 +126,8 @@
 
 ## U
 
+[Un-Refried Beans - Instant Pot](./un-refried-beans-instant-pot/readme.md)
+
 ## V
 
 ## W
