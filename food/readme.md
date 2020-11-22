@@ -44,6 +44,8 @@
 
 ## G
 
+[Green Bean Casserole](./green-bean-casserole/readme.md)
+
 [Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
 
 [Guacamole](./guacamole/readme.md)
