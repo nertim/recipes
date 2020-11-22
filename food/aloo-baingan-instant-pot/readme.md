@@ -1,9 +1,11 @@
 # Instant Pot Aloo Baingan (Potato & Eggplant Curry)
+
 [https://pipingpotcurry.com/aloo-baingan-instant-pot/](https://pipingpotcurry.com/aloo-baingan-instant-pot/)
 
 ## Ingredients
 
 ### Non-spices
+
 - 1 tablespoon Ghee or Oil
 - 1 teaspoon Cumin seeds (Jeera)
 - 1 Green Chili Pepper optional
@@ -42,7 +44,6 @@ Make it less spicy: Skip the green chili and reduce red chili powder.
 Which Green chili to use? I typically use Thai, Birdeye or Serrano Chili Pepper in my recipes. Don't forget to adjust to your taste.
 
 Cutting the veggies: It is important to cut the veggies in large size about 1 inch so that the eggplants and potatoes don't get too mushy while pressure cooking.
-
 
 ---
 [Back](../readme.md)
