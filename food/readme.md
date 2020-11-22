@@ -4,6 +4,8 @@
 
 [Aloo Baingan - Instant Pot](./aloo-baingan-instant-pot/readme.md)
 
+[Apple Pie](./apple-pie/readme.md)
+
 ## B
 
 [Baked Pineapple Salmon](./baked-pineapple-salmon/readme.md)
@@ -119,6 +121,8 @@
 [Sourdough Starter](./sourdough-starter/readme.md)
 
 [Steel Cut Oats - Instant Pot](./steel-cut-oats-instant-pot/readme.md)
+
+[Sweet Potato Casserole](./sweet-potato-casserole/readme.md)
 
 ## T
 
