@@ -102,6 +102,8 @@
 
 [Pav Bhaji - Instant Pot](./pav-bhai-instant-pot/readme.md)
 
+[Pumpkin Pie](./pumpkin-pie/readme.md)
+
 ## Q
 
 ## R
