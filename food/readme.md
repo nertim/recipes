@@ -50,6 +50,8 @@
 
 [Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
 
+[Grilled Ground Meat Kebabs](./grilled-meat-kebabs/readme.md)
+
 [Guacamole](./guacamole/readme.md)
 
 ## H
@@ -114,6 +116,8 @@
 
 ## S
 
+[Salsa](./salsa/readme.md)
+
 [Shredded Chicken - Instant Pot](./shredded-chicken-instant-pot/readme.md)
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
@@ -127,6 +131,8 @@
 [Sweet Potato Casserole](./sweet-potato-casserole/readme.md)
 
 ## T
+
+[Tzatziki Sauce](./tzatziki-sauce/readme.md)
 
 [Thai Prawn Curry](./thai-prawn-curry/readme.md)
 
