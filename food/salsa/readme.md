@@ -4,7 +4,7 @@
 ## Ingredients
 - 6 roma tomatoes
 - 1 jalapeno
-- 1/2 red onion
+- 1/4 red onion
 - 2 cloves garlic
 - 1/4 cup roughly chopped cilantro
 - 1 lime juice

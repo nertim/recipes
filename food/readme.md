@@ -10,6 +10,8 @@
 
 [Baked Pineapple Salmon](./baked-pineapple-salmon/readme.md)
 
+[Balsamic Vinaigrette](./balsamic-vinaigrette/readme.md)
+
 [Banana bread](./banana-bread/readme.md)
 
 [Beef Stew - Instant Pot](./instant-pot-beef-stew/readme.md)
@@ -108,6 +110,8 @@
 
 ## Q
 
+[Queso (Mexican cheese dip)](./queso/readme.md)
+
 ## R
 
 [Rajma - Instant Pot](./rajma-masala-instant-pot/readme.md)
@@ -119,6 +123,8 @@
 [Salsa](./salsa/readme.md)
 
 [Shredded Chicken - Instant Pot](./shredded-chicken-instant-pot/readme.md)
+
+[Shrimp Broccoli Pasta](./shrimp-broccoli-pasta/readme.md)
 
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 
