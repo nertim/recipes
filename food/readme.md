@@ -4,6 +4,8 @@
 
 [Aloo Baingan - Instant Pot](./aloo-baingan-instant-pot/readme.md)
 
+[Aloo Gobi - Instant Pot](./instant-pot-allo-gobi/readme.md)
+
 [Apple Pie](./apple-pie/readme.md)
 
 ## B
