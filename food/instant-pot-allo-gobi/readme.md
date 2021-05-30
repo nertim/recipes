@@ -1,4 +1,4 @@
-# Instant Pot Aloo Gobu
+# Instant Pot Aloo Gobi
 
 [https://pipingpotcurry.com/aloo-gobi-pressure-cooker/](https://pipingpotcurry.com/aloo-gobi-pressure-cooker/)
 
