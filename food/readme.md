@@ -50,6 +50,8 @@
 
 ## G
 
+[Good Old Fashioned Pancakes](./good-old-fashioned-pancakes/readme.md)
+
 [Green Bean Casserole](./green-bean-casserole/readme.md)
 
 [Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
