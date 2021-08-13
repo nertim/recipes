@@ -11,7 +11,7 @@
 
 ## D
 
-[Date and Cocoa Smoothie](./date-and-coca-smoothie/readme.md)
+[Date and Cocoa Smoothie](./date-and-cocoa-smoothie/readme.md)
 
 ## E
 
