@@ -142,6 +142,8 @@
 
 ## T
 
+[Teryaki Sauce](./teryaki-sauce/readme.md)
+
 [Tzatziki Sauce](./tzatziki-sauce/readme.md)
 
 [Thai Prawn Curry](./thai-prawn-curry/readme.md)
