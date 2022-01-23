@@ -130,6 +130,8 @@
 
 [Shrimp Broccoli Pasta](./shrimp-broccoli-pasta/readme.md)
 
+[Shrimp Lemon Garlic](./shrimp-lemon-garlic/readme.md)
+
 [Smoky Cauliflower](./smoky-cauliflower/readme.md)
 
 [Sourdough Pancakes](./sourdough-pancakes/readme.md)
