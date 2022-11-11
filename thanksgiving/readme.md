@@ -1,6 +1,6 @@
-# Thanksgiving 2020 Recipes
+# Thanksgiving Recipes
 
-These are some of the items we are planning on making for this years Thanksgiving.
+These are some of the items I like to make for Thanksgiving.
 
 ## Savory
 
