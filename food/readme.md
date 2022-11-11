@@ -146,11 +146,13 @@
 
 [Teryaki Sauce](./teryaki-sauce/readme.md)
 
-[Tzatziki Sauce](./tzatziki-sauce/readme.md)
-
 [Thai Prawn Curry](./thai-prawn-curry/readme.md)
 
 [Tomato Soup](./tomato-soup/readme.md)
+
+[Triple Berry Pie](./triple-berry-pie/readme.md)
+
+[Tzatziki Sauce](./tzatziki-sauce/readme.md)
 
 ## U
 
@@ -159,6 +161,8 @@
 ## V
 
 ## W
+
+[Whipped Cream](./whipped-cream/readme.md)
 
 ## X
 
