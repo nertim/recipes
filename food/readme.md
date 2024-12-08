@@ -56,8 +56,6 @@
 
 [Grilled Chicken Shawarma](./grilled-chicken-shawarma/readme.md)
 
-[Grilled Ground Meat Kebabs](./grilled-meat-kebabs/readme.md)
-
 [Guacamole](./guacamole/readme.md)
 
 ## H
@@ -108,7 +106,9 @@
 
 [Pan Roasted Chicken with Lemon and Garlic Beans](./pan-roasted-chicken-lemon-garlic-green-beans/readme.md)
 
-[Pav Bhaji - Instant Pot](./pav-bhai-instant-pot/readme.md)
+[Pav Bhaji - Instant Pot](./perfect-persian-kabob/readme.md)
+
+[Persian Kabob](./grilled-meat-kebabs/readme.md)
 
 [Pumpkin Pie](./pumpkin-pie/readme.md)
 
